@@ -15,5 +15,6 @@ Repository which stores reviews of the offical GoMoof Site. Content here will be
   "rating": 5,
   "date": "2023-10-01",
   "image": "https://example.com/image.jpg",
+  "model": "S5"
 }
 ```
