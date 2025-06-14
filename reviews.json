@@ -5,7 +5,8 @@
     "rating": 5,
     "author": "John Doe",
     "date": "4th Mai 2025",
-    "image": "https://via.placeholder.com/150"
+    "image": "https://via.placeholder.com/150",
+    "model": "S5"
   },
   {
     "title": "Not what I expected",
@@ -13,7 +14,8 @@
     "rating": 3,
     "author": "Jane Smith",
     "date": "4th Mai 2025",
-    "image": "https://via.placeholder.com/150"
+    "image": "https://via.placeholder.com/150",
+    "model": "A5"
   },
   {
     "title": "Amazing features!",
@@ -21,6 +23,7 @@
     "rating": 4,
     "author": "Alice Johnson",
     "date": "4th Mai 2025",
-    "image": "https://via.placeholder.com/150"
+    "image": "https://via.placeholder.com/150",
+    "model": "S3"
   }
 ]
