@@ -9,6 +9,7 @@ Repository which stores reviews of the offical GoMoof Site. Content here will be
 # Template of a Review:
 ```json
 {
+  "lang": "en",
   "title": "Your title",
   "review": "Your Review",
   "author": "Your Name",
