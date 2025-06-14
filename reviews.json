@@ -1,5 +1,6 @@
 [
   {
+    "lang": "en",
     "title": "Great App!",
     "review": "This app has changed my life for the better. Highly recommend!",
     "rating": 5,
@@ -9,6 +10,7 @@
     "model": "S5"
   },
   {
+    "lang": "en",
     "title": "Not what I expected",
     "review": "The app is okay, but it didn't meet my expectations. Could use some improvements.",
     "rating": 3,
@@ -18,6 +20,7 @@
     "model": "A5"
   },
   {
+    "lang": "en",
     "title": "Amazing features!",
     "review": "I love the new features added in the latest update. Makes everything so much easier.",
     "rating": 4,
@@ -25,5 +28,55 @@
     "date": "4th Mai 2025",
     "image": "https://via.placeholder.com/150",
     "model": "S3"
+  },
+  {
+    "lang": "de",
+    "title": "Sehr hilfreich im Alltag",
+    "review": "Ich nutze die App täglich und sie spart mir viel Zeit. Super gemacht!",
+    "rating": 5,
+    "author": "Lena Müller",
+    "date": "4th Mai 2025",
+    "image": "https://via.placeholder.com/150",
+    "model": "S2"
+  },
+  {
+    "lang": "de",
+    "title": "Zu viele Fehler",
+    "review": "Die App hat gute Ansätze, aber leider noch zu viele Bugs.",
+    "rating": 2,
+    "author": "Thomas Becker",
+    "date": "4th Mai 2025",
+    "image": "https://via.placeholder.com/150",
+    "model": "A3"
+  },
+  {
+    "lang": "en",
+    "title": "Really useful",
+    "review": "Helps me stay organized every day. Smooth performance overall.",
+    "rating": 4,
+    "author": "Emily Carter",
+    "date": "4th Mai 2025",
+    "image": "https://via.placeholder.com/150",
+    "model": "S1"
+  },
+  {
+    "lang": "de",
+    "title": "Einfach zu bedienen",
+    "review": "Die Benutzeroberfläche ist sehr intuitiv. Ideal für den Alltag.",
+    "rating": 4,
+    "author": "Sara Klein",
+    "date": "4th Mai 2025",
+    "image": "https://via.placeholder.com/150",
+    "model": "S4"
+  },
+  {
+    "lang": "en",
+    "title": "Basic but decent",
+    "review": "It's not perfect, but it does the job. Worth trying out.",
+    "rating": 3,
+    "author": "Chris Evans",
+    "date": "4th Mai 2025",
+    "image": "https://via.placeholder.com/150",
+    "model": "A1"
   }
 ]
