@@ -1,29 +1,21 @@
 [
     {
-        "title": "Unverzichtbar im Alltag",
-        "review": "Meinen Alltag könnte ich mir ohne die vielen nützlichen Features inzwischen kaum noch vorstellen.",
         "author": "Jan",
+        "review": "Meinen Alltag könnte ich mir ohne die vielen nützlichen Features inzwischen kaum noch vorstellen.",
         "date": "2025-12-13",
         "memberSince": "2024-11-03",
-        "image": "https://via.placeholder.com/150",
-        "model": "S5"
     },
     {
-        "title": "Für echte VanMoof-Fans",
-        "review": "Ich kann die App wirklich jedem ans Herz legen, der selbst begeisteter Vanmoof-Fahrer ist und seinem Alltag das gewisse 'on-top' geben möchte.",
         "author": "Paul",
+        "review": "Ich kann die App wirklich jedem ans Herz legen, der selbst begeisteter Vanmoof-Fahrer ist und seinem Alltag das gewisse 'on-top' geben möchte.",
         "date": "2025-12-13",
         "memberSince": "2025-01-18",
-        "image": "https://via.placeholder.com/150",
-        "model": "S5"
     },
     {
-        "title": "Upgrade für mein S5",
-        "review": "GoMoof hat meinem VanMoof S5 coole neue Fähigkeiten wie manuelles Schalten und erweitertes Ride-Tracking gegeben und ist absolut empfehlenswert.",
         "author": "Axel",
+        "review": "GoMoof hat meinem VanMoof S5 coole neue Fähigkeiten wie manuelles Schalten und erweitertes Ride-Tracking gegeben und ist absolut empfehlenswert.",
         "date": "2025-12-20",
         "memberSince": "2024-05-04",
         "image": "https://raw.githubusercontent.com/gomoof/testimonials/refs/heads/main/images/axel_2025-12-20.webp",
-        "model": "S5"
     }
 ]
