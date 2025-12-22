@@ -1,5 +1,17 @@
 [
-      {
+    {
+        "author": "Jan",
+        "review": "I can hardly imagine my daily life without all the many useful features by now.",
+        "date": "2025-12-13",
+        "memberSince": "2024-11-03"
+    },
+    {
+        "author": "Paul",
+        "review": "I can truly recommend the app to anyone who is an enthusiastic VanMoof rider and wants to give their daily life that extra 'on-top'.",
+        "date": "2025-12-13",
+        "memberSince": "2025-01-18"
+    },
+    {
         "author": "Axel",
         "review": "GoMoof has given my VanMoof S5 cool new features like manual shifting and enhanced ride tracking and is absolutely recommendable.",
         "date": "2025-12-20",
