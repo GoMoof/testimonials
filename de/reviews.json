@@ -17,5 +17,12 @@
         "date": "2025-12-20",
         "memberSince": "2024-05-04",
         "image": "https://raw.githubusercontent.com/gomoof/testimonials/refs/heads/main/images/axel_2025-12-20.webp"
+    },
+    {
+        "author": "Lasse",
+        "review": "GoMoof macht meinen Alltag einfacher mit Auto-Geschwindigkeitslimit, mehrere Fahrräder zu verbinden, automatischem Entsperren, Ladeerinnerungen und ich kann mir das Leben ohne nicht mehr vorstellen.",
+        "date": "2025-12-30",
+        "memberSince": "2025-03-16",
+        "image": "https://raw.githubusercontent.com/gomoof/testimonials/refs/heads/main/images/lasse_2025-12-30.png"
     }
 ]
